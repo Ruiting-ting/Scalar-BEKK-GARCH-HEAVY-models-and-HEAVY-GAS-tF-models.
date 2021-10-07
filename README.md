@@ -1,0 +1,1 @@
+# Scalar-BEKK-GARCH-HEAVY-models-and-HEAVY-GAS-tF-models.
